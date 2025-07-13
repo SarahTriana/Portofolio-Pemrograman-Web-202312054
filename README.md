@@ -1,26 +1,27 @@
-\# Portofolio Pemrograman Web - 202312054
+# 📘 Portofolio Pemrograman Web - 202312054
 
+Repositori ini berisi seluruh tugas praktikum Pemrograman Web dari Modul 1 hingga Modul 6.
 
+## 📂 Daftar Modul
 
-\## Daftar Isi
+| Modul | Deskripsi | Link Folder |
+|-------|-----------|-------------|
+| Modul 1 | HTML dasar | [modul-1](modul-1) |
+| Modul 2 | CSS dasar | [modul-2](modul-2) |
+| Modul 3 | Bootstrap | [modul-3](modul-3) |
+| Modul 4 | JavaScript | [modul-4](modul-4) |
+| Modul 5 | PHP | [modul-5](modul-5) |
+| Modul 6 | MySQL / Database | [modul-6](modul-6) |
 
+## 📌 Cabang (Branch)
 
+Tiap modul dikembangkan di branch masing-masing:
 
-\- \[Modul 1 - HTML](modul-1)
+- `tugas/modul-1-3`
+- `tugas/modul-4-javascript`
+- `tugas/modul-5-php`
+- `tugas/modul-6`
 
-\- \[Modul 2 - CSS](modul-2)
+## ✨ Catatan
 
-\- \[Modul 3 - Bootstrap](modul-3)
-
-\- \[Modul 4 - JavaScript](modul-4)
-
-\- \[Modul 5 - Dasar-Dasar PHP](modul-5)
-
-\- \[Modul 6 - PHP \& MySQL](modul-6)
-
-
-
-Setiap folder berisi hasil praktikum dari masing-masing modul.
-
-
-
+Semua file telah diuji secara lokal menggunakan XAMPP di direktori `htdocs`.
